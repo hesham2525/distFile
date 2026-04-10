@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /buy-product
+
+Sitemap: https://anfalnadjd.com/sitemap.xml
